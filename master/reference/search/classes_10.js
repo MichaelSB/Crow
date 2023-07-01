@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['websocketrule_276',['WebSocketRule',['../classcrow_1_1_web_socket_rule.html',1,'crow']]],
-  ['wrapped_277',['Wrapped',['../structcrow_1_1detail_1_1routing__handler__call__helper_1_1_wrapped.html',1,'crow::detail::routing_handler_call_helper']]],
-  ['wvalue_278',['wvalue',['../classcrow_1_1json_1_1wvalue.html',1,'crow::json']]]
+  ['taggedrule_309',['TaggedRule',['../classcrow_1_1_tagged_rule.html',1,'crow']]],
+  ['task_5ftimer_310',['task_timer',['../classcrow_1_1detail_1_1task__timer.html',1,'crow::detail']]],
+  ['template_5ft_311',['template_t',['../classcrow_1_1mustache_1_1template__t.html',1,'crow::mustache']]],
+  ['trie_312',['Trie',['../classcrow_1_1_trie.html',1,'crow']]]
 ];
